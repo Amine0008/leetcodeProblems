@@ -188,7 +188,7 @@ If you would like to have collaborator permissions on the repo to merge your own
 <sub>[0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)</sub> | <sub><div align='center'>✅</div></sub>
 <sub>[0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0234 - Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)</sub> | <sub><div align='center'>✅</div></sub> 
-<sub>[0203 - Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)</sub> | <sub><div align='center'>❌</div></sub> 
+<sub>[0203 - Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0083 - Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)</sub> | <sub><div align='center'>❌</div></sub> 
 <sub>[0876 - Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)</sub> | <sub><div align='center'>❌</div></sub>
 <sub>[0160 - Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)</sub> | <sub><div align='center'>❌</div></sub>
