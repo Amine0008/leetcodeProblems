@@ -207,7 +207,7 @@ If you would like to have collaborator permissions on the repo to merge your own
 <sub>[0024 - Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0148 - Sort List](https://leetcode.com/problems/sort-list/)</sub> | <sub><div align='center'>❌</div></sub>
 <sub>[0086 - Partition List](https://leetcode.com/problems/partition-list/)</sub> | <sub><div align='center'>✅</div></sub>
-<sub>[0061 - Rotate List](https://leetcode.com/problems/rotate-list/)</sub> | <sub><div align='center'>❌</div></sub>
+<sub>[0061 - Rotate List](https://leetcode.com/problems/rotate-list/)</sub> | <sub><div align='center'>✅</div></sub>
 <sub>[0092 - Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)</sub> | <sub><div align='center'>❌</div></sub>
 <sub>[0622 - Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)</sub> | <sub><div align='center'>❌</div></sub>
 <sub>[0147 - Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)</sub> | <sub><div align='center'>❌</div></sub>
