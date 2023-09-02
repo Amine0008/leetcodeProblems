@@ -212,7 +212,7 @@ If you would like to have collaborator permissions on the repo to merge your own
 <sub>[0622 - Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)</sub> | <sub><div align='center'>✅</div></sub>
 <sub>[0147 - Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)</sub> | <sub><div align='center'>✅</div></sub>
 <sub>[0146 - LRU Cache](https://leetcode.com/problems/lru-cache/)</sub> | <sub><div align='center'>✅</div></sub>
-<sub>[0023 - Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)</sub> | <sub><div align='center'>❌</div></sub>
+<sub>[0023 - Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)</sub> | <sub><div align='center'>✅</div></sub>
 <sub>[0025 - Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)</sub> | <sub><div align='center'>✅</div></sub>
 
 ### Trees
