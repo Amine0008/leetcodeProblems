@@ -136,7 +136,7 @@ If you would like to have collaborator permissions on the repo to merge your own
 <sub>[0704 - Binary Search](https://leetcode.com/problems/binary-search/)</sub> | <sub><div  align='center'><a hrstyle="background-color:lime;">✅✅</a></div></sub>
 <sub>[0035 - Search Insert Position](https://leetcode.com/problems/search-insert-position/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0374 - Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)</sub> | <sub><div align='center'>✅✅</div></sub> 
-<sub>[0441 - Arranging Coins](https://leetcode.com/problems/arranging-coins/)</sub> | <sub><div align='center'>✅</div></sub> 
+<sub>[0441 - Arranging Coins](https://leetcode.com/problems/arranging-coins/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0977 - Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0367 - Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0069 - Sqrt(x) ](https://leetcode.com/problems/sqrtx/)</sub> | <sub><div align='center'>✅</div></sub> 
