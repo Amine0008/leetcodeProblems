@@ -140,7 +140,7 @@ If you would like to have collaborator permissions on the repo to merge your own
 <sub>[0977 - Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0367 - Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0069 - Sqrt(x) ](https://leetcode.com/problems/sqrtx/)</sub> | <sub><div align='center'>✅✅</div></sub> 
-<sub>[0540 - Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)</sub> | <sub><div align='center'>✅</div></sub> 
+<sub>[0540 - Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[1011 - Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0162 - Find Peak Element](https://leetcode.com/problems/find-peak-element/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[2300 - Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)</sub> | <sub><div align='center'>✅</div></sub> 
