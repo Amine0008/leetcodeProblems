@@ -142,7 +142,7 @@ If you would like to have collaborator permissions on the repo to merge your own
 <sub>[0069 - Sqrt(x) ](https://leetcode.com/problems/sqrtx/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0540 - Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[1011 - Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)</sub> | <sub><div align='center'>✅✅</div></sub> 
-<sub>[0162 - Find Peak Element](https://leetcode.com/problems/find-peak-element/)</sub> | <sub><div align='center'>✅</div></sub> 
+<sub>[0162 - Find Peak Element](https://leetcode.com/problems/find-peak-element/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[2300 - Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0074 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0875 - Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)</sub> | <sub><div align='center'>✅</div></sub> 
