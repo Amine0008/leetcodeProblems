@@ -145,7 +145,7 @@ If you would like to have collaborator permissions on the repo to merge your own
 <sub>[0162 - Find Peak Element](https://leetcode.com/problems/find-peak-element/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[2300 - Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0074 - Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)</sub> | <sub><div align='center'>✅✅</div></sub> 
-<sub>[0875 - Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)</sub> | <sub><div align='center'>✅</div></sub> 
+<sub>[0875 - Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0153 - Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0033 - Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0981 - Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)</sub> | <sub><div align='center'>✅</div></sub> 
