@@ -149,7 +149,7 @@ If you would like to have collaborator permissions on the repo to merge your own
 <sub>[0153 - Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0033 - Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0981 - Time Based Key Value Store](https://leetcode.com/problems/time-based-key-value-store/)</sub> | <sub><div align='center'>✅✅</div></sub> 
-<sub>[0034 - Find First And Last Position of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)</sub> | <sub><div align='center'>✅</div></sub>
+<sub>[0034 - Find First And Last Position of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)</sub> | <sub><div align='center'>✅✅</div></sub>
 <sub>[1898 - Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)</sub> | <sub><div align='center'>❌</div></sub> 
 <sub>[0116 - Populating Next Right Pointers In Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)</sub> | <sub><div align='center'>❌</div></sub> 
 <sub>[1268 - Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)</sub> | <sub><div align='center'>✅</div></sub> 
