@@ -152,7 +152,7 @@ If you would like to have collaborator permissions on the repo to merge your own
 <sub>[0034 - Find First And Last Position of Element In Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)</sub> | <sub><div align='center'>✅✅</div></sub>
 <sub>[1898 - Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0116 - Populating Next Right Pointers In Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)</sub> | <sub><div align='center'>❌</div></sub> 
-<sub>[1268 - Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)</sub> | <sub><div align='center'>✅</div></sub> 
+<sub>[1268 - Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)</sub> | <sub><div align='center'>✅✅</div></sub> 
 <sub>[0410 - Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)</sub> | <sub><div align='center'>✅</div></sub> 
 <sub>[0004 - Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)</sub> | <sub><div align='center'>❌</div></sub>
 
